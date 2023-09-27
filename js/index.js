@@ -1,5 +1,3 @@
-console.clear();
-
 /*
 1. Create the data for a small social media post. Create a const variable for each data point listed below.:
 	- a title
@@ -10,6 +8,12 @@ console.clear();
 */
 
 // --v-- write your code here --v--
+const socialMediaTitle = "social media";
+const text = "some text";
+let numberOfLikes = 23;
+numberOfLikes++;
+const postCreator = "John Doe";
+const isReported = "true";
 
 // --^-- write your code here --^--
 
@@ -18,5 +22,5 @@ console.clear();
 */
 
 // --v-- write your code here --v--
-
+console.log(numberOfLikes);
 // --^-- write your code here --^--
